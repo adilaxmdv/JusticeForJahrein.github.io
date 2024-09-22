@@ -16,6 +16,17 @@ body {
     border-radius: 10px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+footer {
+    position: fixed; /* Sticks the footer to the bottom of the page */
+    bottom: 0;
+    width: 100%;
+    background-color: #1b1b1b; /* Dark background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.9em;
+    font-family: 'Arial', sans-serif;
+}
 
 h1 {
     font-size: 2em;
